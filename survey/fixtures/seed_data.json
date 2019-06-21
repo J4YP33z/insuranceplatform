@@ -1,0 +1,394 @@
+[
+    {
+        "model": "survey.AgeFactor",
+        "pk": 1,
+        "fields": {
+            "age": 18,
+            "max_factor": 10
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 2,
+        "fields": {
+            "age": 19,
+            "max_factor": 10.1
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 3,
+        "fields": {
+            "age": 20,
+            "max_factor": 10.2
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 4,
+        "fields": {
+            "age": 21,
+            "max_factor": 10.3
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 5,
+        "fields": {
+            "age": 22,
+            "max_factor": 10.4
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 6,
+        "fields": {
+            "age": 23,
+            "max_factor": 10.6
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 7,
+        "fields": {
+            "age": 24,
+            "max_factor": 10.8
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 8,
+        "fields": {
+            "age": 25,
+            "max_factor": 11
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 8,
+        "fields": {
+            "age": 26,
+            "max_factor": 11.3
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 9,
+        "fields": {
+            "age": 27,
+            "max_factor": 11.4
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 10,
+        "fields": {
+            "age": 28,
+            "max_factor": 11.7
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 11,
+        "fields": {
+            "age": 29,
+            "max_factor": 12
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 12,
+        "fields": {
+            "age": 30,
+            "max_factor": 12.2
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 13,
+        "fields": {
+            "age": 31,
+            "max_factor": 12.3
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 14,
+        "fields": {
+            "age": 32,
+            "max_factor": 12.6
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 15,
+        "fields": {
+            "age": 33,
+            "max_factor": 12.9
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 16,
+        "fields": {
+            "age": 34,
+            "max_factor": 13.2
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 17,
+        "fields": {
+            "age": 35,
+            "max_factor": 13.5
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 18,
+        "fields": {
+            "age": 36,
+            "max_factor": 13.8
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 19,
+        "fields": {
+            "age": 37,
+            "max_factor": 13.9
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 20,
+        "fields": {
+            "age": 38,
+            "max_factor": 14
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 21,
+        "fields": {
+            "age": 39,
+            "max_factor": 14.1
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 22,
+        "fields": {
+            "age": 40,
+            "max_factor": 14.2
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 23,
+        "fields": {
+            "age": 41,
+            "max_factor": 14.3
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 24,
+        "fields": {
+            "age": 42,
+            "max_factor": 14.4
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 25,
+        "fields": {
+            "age": 43,
+            "max_factor": 14.5
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 26,
+        "fields": {
+            "age": 44,
+            "max_factor": 14.6
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 27,
+        "fields": {
+            "age": 45,
+            "max_factor": 15
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 28,
+        "fields": {
+            "age": 46,
+            "max_factor": 15.1
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 29,
+        "fields": {
+            "age": 47,
+            "max_factor": 15.2
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 30,
+        "fields": {
+            "age": 48,
+            "max_factor": 15.3
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 31,
+        "fields": {
+            "age": 49,
+            "max_factor": 15.4
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 32,
+        "fields": {
+            "age": 50,
+            "max_factor": 15.5
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 33,
+        "fields": {
+            "age": 51,
+            "max_factor": 15.2
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 34,
+        "fields": {
+            "age": 52,
+            "max_factor": 15.1
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 35,
+        "fields": {
+            "age": 53,
+            "max_factor": 14.9
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 36,
+        "fields": {
+            "age": 54,
+            "max_factor": 14.7
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 37,
+        "fields": {
+            "age": 55,
+            "max_factor": 13
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 38,
+        "fields": {
+            "age": 56,
+            "max_factor": 11
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 39,
+        "fields": {
+            "age": 57,
+            "max_factor": 10
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 40,
+        "fields": {
+            "age": 58,
+            "max_factor": 9
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 41,
+        "fields": {
+            "age": 59,
+            "max_factor": 8
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 42,
+        "fields": {
+            "age": 60,
+            "max_factor": 7
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 43,
+        "fields": {
+            "age": 61,
+            "max_factor": 6.5
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 44,
+        "fields": {
+            "age": 62,
+            "max_factor": 6
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 45,
+        "fields": {
+            "age": 63,
+            "max_factor": 5.5
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 46,
+        "fields": {
+            "age": 64,
+            "max_factor": 5
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 47,
+        "fields": {
+            "age": 65,
+            "max_factor": 5
+        }
+    },
+    {
+        "model": "survey.AgeFactor",
+        "pk": 48,
+        "fields": {
+            "age": 66,
+            "max_factor": 5
+        }
+    }
+]
